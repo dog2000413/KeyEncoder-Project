@@ -1,0 +1,14 @@
+C:\cursor projects\KeyEncoder Project\KeyEncoder\bin\Debug\net9.0\KeyEncoder.exe
+C:\cursor projects\KeyEncoder Project\KeyEncoder\bin\Debug\net9.0\KeyEncoder.deps.json
+C:\cursor projects\KeyEncoder Project\KeyEncoder\bin\Debug\net9.0\KeyEncoder.runtimeconfig.json
+C:\cursor projects\KeyEncoder Project\KeyEncoder\bin\Debug\net9.0\KeyEncoder.dll
+C:\cursor projects\KeyEncoder Project\KeyEncoder\bin\Debug\net9.0\KeyEncoder.pdb
+C:\cursor projects\KeyEncoder Project\KeyEncoder\obj\Debug\net9.0\KeyEncoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursor projects\KeyEncoder Project\KeyEncoder\obj\Debug\net9.0\KeyEncoder.AssemblyInfoInputs.cache
+C:\cursor projects\KeyEncoder Project\KeyEncoder\obj\Debug\net9.0\KeyEncoder.AssemblyInfo.cs
+C:\cursor projects\KeyEncoder Project\KeyEncoder\obj\Debug\net9.0\KeyEncoder.csproj.CoreCompileInputs.cache
+C:\cursor projects\KeyEncoder Project\KeyEncoder\obj\Debug\net9.0\KeyEncoder.dll
+C:\cursor projects\KeyEncoder Project\KeyEncoder\obj\Debug\net9.0\refint\KeyEncoder.dll
+C:\cursor projects\KeyEncoder Project\KeyEncoder\obj\Debug\net9.0\KeyEncoder.pdb
+C:\cursor projects\KeyEncoder Project\KeyEncoder\obj\Debug\net9.0\KeyEncoder.genruntimeconfig.cache
+C:\cursor projects\KeyEncoder Project\KeyEncoder\obj\Debug\net9.0\ref\KeyEncoder.dll

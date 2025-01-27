@@ -1,0 +1,2 @@
+C:\cursor projects\KeyEncoder Project\KeyEncoder\bin\Release\net9.0\win-x64\publish\KeyEncoder.pdb
+C:\cursor projects\KeyEncoder Project\KeyEncoder\bin\Release\net9.0\win-x64\publish\KeyEncoder.exe
